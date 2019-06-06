@@ -1,5 +1,8 @@
 _repo: Memoir-of-the-Services-of-the-Bengal-Artillery-From-the-Formation-of-the-Corps-to-the-Present__59595
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59595-h/images/cover.jpg
 creator:
   author:
     agent_name: Buckle, E.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44618
     wikipedia: https://en.wikipedia.org/wiki/John_William_Kaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59595#Memoir-of-the-Services-of-the-Bengal-Artillery-From-the-Formation-of-the-Corps-to-the-Present_
 gutenberg_issued: '2019-05-25'
 gutenberg_type: Text
 identifiers:
